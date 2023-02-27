@@ -1,2 +1,1 @@
-# newpost
-Aplicação utilizando NextJs para visualizar noticias
+Para utilizar é necessário iniciar webhooks do Stripe com 'stripe listen --forward-to'.
