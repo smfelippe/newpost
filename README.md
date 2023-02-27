@@ -1,1 +1,1 @@
-Para utilizar é necessário iniciar webhooks do Stripe com 'stripe listen --forward-to'.
+Para utilizar é necessário iniciar webhooks do Stripe com comando 'stripe listen --forward-to' no terminal.
